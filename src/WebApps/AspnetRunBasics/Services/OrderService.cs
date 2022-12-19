@@ -1,4 +1,4 @@
-﻿using AspnetRunBasics.Extentions;
+﻿using AspnetRunBasics.Extensions;
 using AspnetRunBasics.Models;
 using System;
 using System.Collections.Generic;
